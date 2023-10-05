@@ -444,6 +444,12 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+  spotify_dark: {
+   title_color: "1dd65f",
+   icon_color: "1dd65f",
+   text_color: "f0f8ff",
+   bg_color: "161b22"
+  },
 };
 
 export default themes;
